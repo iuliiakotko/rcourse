@@ -7,3 +7,4 @@ summary(my_data)
 
 my_data2 <- glm(x~y)
 summary(my_data2)
+
